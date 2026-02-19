@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# REAL-TIME COLLABORATIVE EDITOR
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*COMPANY*: CODTECH IT SOLUTIONS
 
-## Available Scripts
+*NAME*: NIVEDHITHA S
 
-In the project directory, you can run:
+*INTERN ID*: CTIS3946
 
-### `npm start`
+*DOMAIN*: FULL STACK DEVELOPMENT
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+*DURATION*: 6 WEEKS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+*MENTOR*: NEELA SANTOSH
 
-### `npm test`
+##DESCRIPTION: The Real-Time Collaborative Code Editor is a web-based application that enables multiple users to write and edit text simultaneously in a shared environment. The system uses WebSocket communication to instantly synchronize changes between connected users, ensuring a seamless collaborative experience.The application is built using a React frontend and a Node.js backend with Socket.io for real-time bidirectional communication. It features a modern, responsive user interface with an active user counter, download functionality, and smooth interactive design elements.This project demonstrates real-time data synchronization, event-driven programming, and full-stack development using modern web technologies.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##  Features
 
-### `npm run build`
+-  Real-time text synchronization
+-  Live active user count
+-  WebSocket-based communication
+-  Modern responsive UI
+-  Download document functionality
+-  Client-server architecture
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Frontend
+- React.js
+- Socket.io Client
+- JavaScript (ES6)
+- Custom CSS Styling
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Backend
+- Node.js
+- Express.js
+- Socket.io
+- CORS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+##OUTPUT:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img width="1905" height="836" alt="Image" src="https://github.com/user-attachments/assets/aba4d8b2-dd5d-4b01-92e3-59ddfd74a46c" />
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="1909" height="896" alt="Image" src="https://github.com/user-attachments/assets/232e086e-97d1-4401-8269-1c85a02cb808" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1919" height="830" alt="Image" src="https://github.com/user-attachments/assets/5fa45d94-8de1-4c34-9f5e-76d0db46203a" />
