@@ -14,7 +14,7 @@
 
 ##DESCRIPTION: The Real-Time Collaborative Code Editor is a web-based application that enables multiple users to write and edit text simultaneously in a shared environment. The system uses WebSocket communication to instantly synchronize changes between connected users, ensuring a seamless collaborative experience.The application is built using a React frontend and a Node.js backend with Socket.io for real-time bidirectional communication. It features a modern, responsive user interface with an active user counter, download functionality, and smooth interactive design elements.This project demonstrates real-time data synchronization, event-driven programming, and full-stack development using modern web technologies.
 
-##  Features
+##Features
 
 -  Real-time text synchronization
 -  Live active user count
@@ -23,13 +23,13 @@
 -  Download document functionality
 -  Client-server architecture
 
-### Frontend
+###Frontend
 - React.js
 - Socket.io Client
 - JavaScript (ES6)
 - Custom CSS Styling
 
-### Backend
+###Backend
 - Node.js
 - Express.js
 - Socket.io
