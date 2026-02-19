@@ -36,3 +36,9 @@
 - CORS
 
 ##OUTPUT
+
+<img width="1905" height="836" alt="Image" src="https://github.com/user-attachments/assets/aba4d8b2-dd5d-4b01-92e3-59ddfd74a46c" />
+
+<img width="1909" height="896" alt="Image" src="https://github.com/user-attachments/assets/232e086e-97d1-4401-8269-1c85a02cb808" />
+
+<img width="1919" height="830" alt="Image" src="https://github.com/user-attachments/assets/5fa45d94-8de1-4c34-9f5e-76d0db46203a" />
